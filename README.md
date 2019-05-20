@@ -12,6 +12,7 @@ Choose one
 - Waterboy
 - Digimon
 - Waifu
+- Robot
 
 Choose one
 
