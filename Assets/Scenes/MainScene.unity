@@ -150,7 +150,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -162,7 +162,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (3)
+      value: KnightBowlingPinThree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -204,7 +204,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -216,7 +216,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (8)
+      value: KnightBowlingPinEight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -335,7 +335,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -347,7 +347,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (6)
+      value: KnightBowlingPinSix
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -389,7 +389,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 21
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -401,7 +401,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (15)
+      value: KnightBowlingPinFifteen
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -586,7 +586,7 @@ Transform:
   m_LocalScale: {x: 20, y: 1, z: 2}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &538115480
 Prefab:
@@ -625,7 +625,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 19
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -637,7 +637,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (13)
+      value: KnightBowlingPinThriteen
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -712,7 +712,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 20
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -724,7 +724,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (14)
+      value: KnightBowlingPinFourteen
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -795,122 +795,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!1 &771985070
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 771985076}
-  - component: {fileID: 771985075}
-  - component: {fileID: 771985074}
-  - component: {fileID: 771985073}
-  - component: {fileID: 771985072}
-  - component: {fileID: 771985071}
-  m_Layer: 0
-  m_Name: Cylinder
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!136 &771985071
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 771985070}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5000001
-  m_Height: 2.0000002
-  m_Direction: 1
-  m_Center: {x: 0.00000005960465, y: 0, z: -0.00000008940697}
---- !u!54 &771985072
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 771985070}
-  serializedVersion: 2
-  m_Mass: 700
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
---- !u!136 &771985073
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 771985070}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5000001
-  m_Height: 2
-  m_Direction: 1
-  m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
---- !u!23 &771985074
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 771985070}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RenderingLayerMask: 4294967295
-  m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
---- !u!33 &771985075
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 771985070}
-  m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &771985076
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 771985070}
-  m_LocalRotation: {x: 0, y: 0, z: 0.76604444, w: 0.64278764}
-  m_LocalPosition: {x: -3.18, y: 29.51, z: -35.4}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 100}
 --- !u!1 &841241727 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590,
@@ -981,7 +865,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 17
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -993,7 +877,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (11)
+      value: KnightBowlingPinEleven
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -1290,6 +1174,7 @@ GameObject:
   - component: {fileID: 1397695620}
   - component: {fileID: 1397695619}
   - component: {fileID: 1397695618}
+  - component: {fileID: 1397695624}
   m_Layer: 0
   m_Name: Pikmin
   m_TagString: Untagged
@@ -1392,8 +1277,19 @@ Transform:
   m_Children:
   - {fileID: 2091054390}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 100, y: 0, z: 100}
+--- !u!114 &1397695624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1397695617}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b85a5de23ba4764e842c158b41e1c66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1428641987 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590,
@@ -1464,7 +1360,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1476,7 +1372,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (4)
+      value: KnightBowlingPinFour
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -1518,7 +1414,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 15
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1530,7 +1426,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (9)
+      value: KnightBowlingPinNine
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -1572,7 +1468,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1584,7 +1480,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (2)
+      value: KnightBowlingPinTwo
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -1845,7 +1741,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1857,7 +1753,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (10)
+      value: KnightBowlingPinTen
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -1899,7 +1795,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 18
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1911,7 +1807,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (12)
+      value: KnightBowlingPinTwelve
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -1928,7 +1824,7 @@ GameObject:
   - component: {fileID: 1803603105}
   - component: {fileID: 1803603104}
   m_Layer: 0
-  m_Name: Head (1)
+  m_Name: CounterBalance
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2038,7 +1934,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2050,7 +1946,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (5)
+      value: KnightBowlingPinFive
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -2178,7 +2074,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2190,7 +2086,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (1)
+      value: KnightBowlingPinOne
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -2265,7 +2161,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2277,7 +2173,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_Name
-      value: KnightBowlingPin (7)
+      value: KnightBowlingPinSeven
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
@@ -2438,7 +2334,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 400176, guid: 5b2e43a3c94ba5e429f239e179ca6590, type: 3}
       propertyPath: m_LocalPosition.y
